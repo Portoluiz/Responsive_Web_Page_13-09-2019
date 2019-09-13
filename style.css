@@ -56,12 +56,12 @@ body{
 .container h1{
   font-family: 'Lexend Deca', sans-serif;
   font-size: 3em;
-  color: aliceblue;
+  color: purple;
 }
 
 .container p{
   font-family: 'Muli', sans-serif;
-  color: #ececf0bd;
+  color: #f39c39bd;
 }
 
 button{
